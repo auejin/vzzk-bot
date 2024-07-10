@@ -1,4 +1,4 @@
-# VZZK (버지직)
+# VZZK
 ![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)
 ![GitHub Downloads](https://img.shields.io/github/downloads/auejin/vzzk-bot/total)
 ![Follow on X](https://img.shields.io/twitter/follow/sardinevish)
@@ -10,7 +10,7 @@
 
 ## 이거 뭐야?
 
-VZZK는 치지직 스트리머들을 위해 만든 채팅봇이자 매크로 프로그램이에요.
+VZZK (버지직)는 치지직 스트리머들을 위해 만든 채팅봇이자 매크로 프로그램이에요.
 
 투표나 룰렛 같은 재밌는 기능들로 더 몰입감 넘치는 방송을 만들 수 있어요.
 
