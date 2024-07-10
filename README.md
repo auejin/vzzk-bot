@@ -8,7 +8,7 @@
 ![](https://i.imgur.com/ENX9xn2.gif)
 ![](https://i.imgur.com/RyyySM6.gif)
 
-## 이거 뭐야?
+## 이게 뭐야?
 
 VZZK (버지직)는 치지직 스트리머들을 위해 만든 채팅봇이자 매크로 프로그램이에요.
 
@@ -25,6 +25,13 @@ VZZK (버지직)는 치지직 스트리머들을 위해 만든 채팅봇이자 �
 5. 오른쪽에 있는 회색 토글 버튼 누르면 방송 준비 끝!
 
 방송 도우미, SR 봇, TITS 연결 등 더 자세한 설명은 [위키를 읽어주세요!](https://github.com/auejin/vzzk-bot/wiki)
+
+## 어디서 받는데?
+
+프로그램은 [Releases 페이지](https://github.com/auejin/vzzk-bot/releases/latest)에서 다운로드 하실 수 있어요!
+- 윈도우를 사용하고 있다면 *.msi 파일을 클릭
+- 맥OS를 사용하고 있다면 *.app.tar.gz 파일을 클릭
+- 리눅스를 사용하고 있다면 *.AppImage.tar.gz 파일을 클릭
 
 ## 네이버 쿠키 얻는 법
 
