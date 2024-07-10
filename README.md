@@ -29,9 +29,9 @@ VZZK (버지직)는 치지직 스트리머들을 위해 만든 채팅봇이자 �
 ## 어디서 받는데?
 
 프로그램은 [Releases 페이지](https://github.com/auejin/vzzk-bot/releases/latest)에서 다운로드 하실 수 있어요!
-- 윈도우를 사용하고 있다면 *.msi 파일을 클릭
-- 맥OS를 사용하고 있다면 *.app.tar.gz 파일을 클릭
-- 리눅스를 사용하고 있다면 *.AppImage.tar.gz 파일을 클릭
+- 윈도우를 사용하고 있다면 [여기를 클릭](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Windows.msi.zip)해서 다운로드하세요.
+- 맥OS를 사용하고 있다면 [여기를 클릭](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Mac.app.tar.gz)해서 다운로드하세요.
+- 리눅스를 사용하고 있다면 [여기를 클릭](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Ubuntu.AppImage.tar.gz)해서 다운로드하세요.
 
 ## 네이버 쿠키 얻는 법
 
