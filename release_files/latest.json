@@ -1,19 +1,19 @@
 {
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS1V1ZG5SamRZNlRwTmFDdDh1RDFuY3Evc1N6L1FldE82UGgxcVV4aTVhRFdXZlNOWDIzRnVtcERwU0VLMW9XRHRUcXA2bTd6WVNXYkd0RGtHLytvVlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNzUxNDk0CWZpbGU6Vnp6ay5hcHAudGFyLmd6Cnp5Nzh2dkVrN3NyNWtnKzdRZ2JWWHhwbldpRTgxckM1N2ZvK0FESjExM2RjN3luanhqMktLLzlZa1lmdEh5R3ZvRHgwNUJ5THBSNTZQOFJsOHpUSUNBPT0K",
-      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.5/Vzzk_Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS1pWaWxmVEdIZUZsM3BEdy9EL0ZxTnA1TmgzTWM3YXppMkNiaWxKZ0xzZGwvS1gxdWszeFhYWlA2MURTQTd0Zzd4UkZJSDQ1aGpHV0hEODRQRU52ZHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDYyNjEzCWZpbGU6Vnp6ay5hcHAudGFyLmd6CkJJVTJHelpWQ1dTSDFZK0htb1FJQU1yeG9QanE4VnR3cW1RV0xGU3FWWFFEeEpVMWwvalJBTFl5QXB5Wkp1Y09ZOGxvYjRvUURrY1JYU2hsRndJaUR3PT0K",
+      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.6/Vzzk_Mac.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS1U5RXBYVWFnaW1zN2JTQ3gyUjVrcDk1bUlRdlhFenBwbFZER3lkSG9BNmNTbHJ6TGp3S0ZxK1NCbURPekNSQ0JtQjFDd1pWVjVYQm13YTF1K3pFMndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNzUxNzAzCWZpbGU6dnp6a18wLjAuNV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKcnQxVFNHaU9zbjB5RlZuVHVXZm1jdWN3UFUxS05DODRCSlBDM1NXdi9qdit2czVVTUtXR3RBa2RhRzk3T3RVUFYxY2xIMFEzN3B3Ym0rQlZqWUVnQ2c9PQo=",
-      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.5/Vzzk_Ubuntu.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS2ZmbDlmQUNxNE5NaTEwWUYzem85ZGJHWnhYeC9WcmtUL0NqaFFlWURpdGhGME8zZmF1eUhwUm93NFpIQ2hQdU11K21wMWVyeW9kSmJ2Rzh2OCtEd0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDYyNzUxCWZpbGU6dnp6a18wLjAuNl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKQlNDQS9CQ0pOTDFPQ242aGxWMlcwb2Z6aXNBV0pFVXZmcUIyU2NMakwydHBGTTk1WHVTd21rZzlXdmNYcUtBbjI5a09ZVjM3ZVNTQTY0M1ZIbEVSQmc9PQo=",
+      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.6/Vzzk_Ubuntu.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS2VRUGJidGhpWlRzZ1o1SGloSE5hWlJqeVBkdzViS0V0aitNTUEwTkxjeHlrVUYwLzRhMmIxZTJvMHFjUkpQbG93cnJYc0Z0T3NiTUJYeTRwWXZINFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNzUxOTY2CWZpbGU6Vnp6a18wLjAuNV94NjRfZW4tVVMubXNpLnppcAp4L3hmbVhNemxXYzRYY2RsV0lKTStDM0VLL0oxS2xFNnNCUEIwU2RPRlVuMUVvUFpyejY5K3U1ZjdoUUFveCtyNk1XNjNCMld3MWx6V1VWM0QzeUlEdz09Cg==",
-      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.5/Vzzk_Windows.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3M2Tk5mYTJNS1F5Zi9DNDdpZmZkNTRhdHNiMEdSSGZMUmdISmZURHQ0MHA5NEh4ZnJqT0Q5eDJOMVRMUW1MOENNUitMRmJKOGZQbEpGbWI0QUptYU03TXNyaFl1dndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDYzMzU1CWZpbGU6Vnp6a18wLjAuNl94NjRfZW4tVVMubXNpLnppcApPQkpuZEJIMG1PakdoYnV0b2VPY3NHL1p5bjl6M2FaMkpzaXVTbDNaQVdpdUZtYnFvbkMwTWU5Nk5mNWNyOWFCaCtxVGRNTXAxM2lvSUN6WGVMTFJCdz09Cg==",
+      "url": "https://github.com/auejin/vzzk-bot/releases/download/v0.0.6/Vzzk_Windows.msi.zip"
     }
   },
-  "version": "v0.0.5",
-  "notes": "VZZK v0.0.5 배포",
-  "pub_date": "2024-07-12T02:45:52.000Z"
+  "version": "v0.0.6",
+  "notes": "VZZK v0.0.6 배포",
+  "pub_date": "2024-07-15T17:09:39.000Z"
 }
