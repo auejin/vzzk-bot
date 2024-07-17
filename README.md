@@ -50,4 +50,4 @@ VZZK (브이찍)은 치지직 스트리머들을 위해 만든 채팅봇이자 �
 
 아래 디스코드로 들어오시면 개발자랑 직접 얘기할 수 있어요!
 
-[![](https://dcbadge.limes.pink/api/server/HfycCNdUCF)](https://discord.gg/HfycCNdUCF)
+[![](https://dcbadge.limes.pink/api/server/HfycCNdUCF)](https://discord.gg/nej5zmZADX)
