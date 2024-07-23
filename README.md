@@ -21,9 +21,9 @@ VZZK (브이찍)은 치지직 스트리머들을 위해 만든 채팅봇이자 �
 ## 어디서 받는데?
 
 프로그램은 아래의 링크를 통해 다운로드 하실 수 있어요!
-- [윈도우 VZZK 다운로드](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Windows.msi.zip)
-- [맥OS VZZK 다운로드](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Mac.app.tar.gz)
-- [리눅스 VZZK 다운로드](https://github.com/auejin/vzzk-bot/releases/latest/download/Vzzk_Ubuntu.AppImage.tar.gz)
+- [윈도우 VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk_0.0.14_x64_en-US.msi.zip)
+- [맥OS VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk.app.tar.gz)
+- [리눅스 VZZK 다운로드](https://storage.googleapis.com/vzzk/release/vzzk_0.0.14_amd64.AppImage.tar.gz)
 
 ## 어떻게 쓰는데?
 
