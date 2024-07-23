@@ -2,7 +2,6 @@
 
 # <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK
 ![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)
-![GitHub Downloads](https://img.shields.io/github/downloads/auejin/vzzk-bot/total)
 ![Follow on X](https://img.shields.io/twitter/follow/sardinevish)
 
 치지직 방송을 더 재밌게 만들어주는 만능 채팅봇 & 매크로 프로그램!
