@@ -1,9 +1,10 @@
 
 
 # <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK
-![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)
+[![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
 ![Downloads](https://img.shields.io/badge/downloads-6.5K-blue)
-![Follow on X](https://img.shields.io/twitter/follow/sardinevish)
+[![How to Use](https://img.shields.io/badge/docs-wiki-forestgreen)](https://github.com/auejin/vzzk-bot/wiki)
+[![Follow on X](https://img.shields.io/twitter/follow/sardinevish)](https://x.com/sardinevish)
 
 치지직 방송을 더 재밌게 만들어주는 만능 채팅봇 & 매크로 프로그램!
 
