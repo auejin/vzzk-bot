@@ -2,7 +2,7 @@
 
 # <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK
 [![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
-![Downloads](https://img.shields.io/badge/downloads-6.5K-blue)
+![Downloads](https://img.shields.io/badge/downloads-7.0K-blue)
 [![How to Use](https://img.shields.io/badge/docs-wiki-forestgreen)](https://github.com/auejin/vzzk-bot/wiki)
 [![Follow on X](https://img.shields.io/twitter/follow/sardinevish)](https://x.com/sardinevish)
 
