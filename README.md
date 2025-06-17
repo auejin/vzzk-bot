@@ -15,9 +15,11 @@
 
 VZZK (브이찍)은 치지직 스트리머들을 위해 만든 채팅봇이자 매크로 프로그램이에요.
 
-투표나 룰렛, 채팅 읽어주기 (TTS) 같은 재밌는 기능들로 더 몰입감 넘치는 방송을 만들 수 있어요.
+[투표](https://github.com/auejin/vzzk-bot/wiki/%ED%88%AC%ED%91%9C)나 [룰렛](https://github.com/auejin/vzzk-bot/wiki/%EB%A3%B0%EB%A0%9B), [시청자 추첨](https://github.com/auejin/vzzk-bot/wiki/%EC%8B%9C%EC%B2%AD%EC%9E%90-%EC%B6%94%EC%B2%A8), [채팅 읽어주기 (TTS)](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B4%87-%E2%80%90-%EC%B9%98%EC%A7%80%EC%A7%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-TTS-%EB%B4%87) 같은 재밌는 기능들로 더 몰입감 넘치는 방송을 만들 수 있어요.
 
-시청자들도 채팅이나 후원으로 음악을 신청하고, 아바타에 물건을 던지는 등 방송에 쉽게 참여할 수 있답니다!
+시청자들도 채팅이나 후원으로 [배경 음악을 신청](https://github.com/auejin/vzzk-bot/wiki/SR%EB%B4%87-%E2%80%90-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)하고, [아바타에 물건을 던지는 등](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8) 방송에 쉽게 참여할 수 있답니다!
+
+원하는대로 직접 꾸밀 수 있는 [OBS 오버레이](https://github.com/auejin/vzzk-bot/wiki/%EB%B0%A9%EC%86%A1-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4)로 "몰입감 넘치는 내 방송만의 컨텐츠"를 만들어 보세요!
 
 ## 어디서 받는데?
 
