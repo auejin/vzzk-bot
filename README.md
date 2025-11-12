@@ -21,7 +21,7 @@ VZZK은 치지직 스트리머를 위한 **무료 채팅봇이자 올인원 방�
     * [투표](https://github.com/auejin/vzzk-bot/wiki/%ED%88%AC%ED%91%9C), [룰렛](https://github.com/auejin/vzzk-bot/wiki/%EB%A3%B0%EB%A0%9B), [시청자 추첨](https://github.com/auejin/vzzk-bot/wiki/%EC%8B%9C%EC%B2%AD%EC%9E%90-%EC%B6%94%EC%B2%A8) 기능으로 시청자와 실시간으로 소통하세요.
 
 * **편리한 방송 보조 플러그인**
-    * [채팅 읽어주기(TTS)](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%44%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B4%87-%E2%80%90-%EC%B9%98%EC%A7%80%EC%A7%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-TTS-%EB%B4%87): 인터넷 유행어(밈)까지 자연스럽게 읽어줘 방송에만 집중할 수 있습니다.
+    * [채팅 읽어주기(TTS)](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B4%87-%E2%80%90-%EC%B9%98%EC%A7%80%EC%A7%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-TTS-%EB%B4%87): 인터넷 유행어(밈)까지 자연스럽게 읽어줘 방송에만 집중할 수 있습니다.
     * [음악 신청(SR 봇)](https://github.com/auejin/vzzk-bot/wiki/SR%EB%B4%87-%E2%80%90-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8): 시청자가 채팅이나 치즈 후원으로 직접 음악을 신청하게 하세요.
     * [물건 던지기(TITS)](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8): 버튜버 아바타(VTube Studio 등)에 시청자가 아이템을 던지며 반응할 수 있습니다.
 
