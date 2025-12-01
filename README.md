@@ -7,7 +7,7 @@
 
 **치지직 스트리머가 직접 만든, 올인원 방송 도우미!**
 
-**4만 명 이상의 스트리머**가 VZZK과 함께 방송하고 있습니다.
+**5만 명 이상의 스트리머**가 VZZK과 함께 방송하고 있습니다.
 
 ![](https://i.imgur.com/ENX9xn2.gif)
 ![](https://i.imgur.com/RyyySM6.gif)
