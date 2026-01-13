@@ -1,13 +1,13 @@
 # <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK (브이찍)
 
 [![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
-![Downloads](https://img.shields.io/badge/downloads-52K+-blue)
+![Downloads](https://img.shields.io/badge/downloads-61K+-blue)
 [![How to Use](https://img.shields.io/badge/docs-wiki-forestgreen)](https://github.com/auejin/vzzk-bot/wiki)
 [![Follow on X](https://img.shields.io/twitter/follow/sardinevish)](https://x.com/sardinevish)
 
 **치지직 스트리머가 직접 만든, 올인원 방송 도우미!**
 
-**5만 명 이상의 스트리머**가 VZZK과 함께 방송하고 있습니다.
+**6만 명 이상의 스트리머**가 VZZK과 함께 방송하고 있습니다.
 
 ![](https://i.imgur.com/ENX9xn2.gif)
 ![](https://i.imgur.com/RyyySM6.gif)
