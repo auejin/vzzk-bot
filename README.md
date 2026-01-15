@@ -74,12 +74,12 @@ VZZK은 모든 데이터를 로컬에 저장합니다.
 
 여러분의 컴퓨터에 맞는 버전을 골라 다운로드 하세요.
 
+보안 프로그램이 실행을 막는 경우, [보안 이슈 해결하기](https://github.com/auejin/vzzk-bot/wiki#%EB%B3%B4%EC%95%88-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)를 참고하세요.
+
 - [**윈도우** VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk_Windows.zip)
 - [**맥OS (Apple Silicon)** VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk_Mac_arm64.tar.gz)
 - [**맥OS (Intel)** VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk_Mac_x64.tar.gz)
 - [**리눅스** VZZK 다운로드](https://storage.googleapis.com/vzzk/release/Vzzk_Ubuntu.tar.gz)
-
-> 보안 프로그램이 실행을 막는 경우, [보안 이슈 해결하기](https://github.com/auejin/vzzk-bot/wiki#%EB%B3%B4%EC%95%88-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)를 참고하세요.
 
 ## 시작하기
 
