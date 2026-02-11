@@ -1,7 +1,7 @@
 # <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK (브이찍)
 
 [![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
-![Downloads](https://img.shields.io/badge/downloads-64K+-blue)
+![Downloads](https://img.shields.io/badge/downloads-67K+-blue)
 [![How to Use](https://img.shields.io/badge/docs-wiki-forestgreen)](https://github.com/auejin/vzzk-bot/wiki)
 [![Follow on X](https://img.shields.io/twitter/follow/sardinevish)](https://x.com/sardinevish)
 
@@ -66,7 +66,7 @@ VZZK은 모든 데이터를 로컬에 저장합니다.
 
 | 기능                                                                                                                                                                                                                              | 설명                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [자동 자막](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9E%90%EB%A7%89-%E2%80%90-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%8C%EC%84%B1-%EC%9D%B8%EC%8B%9D-%EC%9E%90%EB%A7%89-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4)    | 실시간 음성 인식 자막  |
+| [자동 자막](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9E%90%EB%A7%89-%E2%80%90-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%8C%EC%84%B1-%EC%9D%B8%EC%8B%9D-%EC%9E%90%EB%A7%89-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4)    | 실시간 음성 인식 자막 + 자동 번역  |
 | [도네이션 목표](https://github.com/auejin/vzzk-bot/wiki/%EB%8F%84%EB%84%A4%EC%9D%B4%EC%85%98-%EB%AA%A9%ED%91%9C-%E2%80%90-%ED%9B%84%EC%9B%90-%EB%AA%A9%ED%91%9C-%EC%A7%84%ED%96%89%EB%A5%A0-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4) | 후원 목표 진행률 표시  |
 | [방송 오버레이](https://github.com/auejin/vzzk-bot/wiki/%EB%B0%A9%EC%86%A1-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4)                                                                                                                  | OBS 소스로 편하게 추가 |
 
