@@ -54,12 +54,12 @@ VZZK의 **자연스러운 TTS**(채팅 읽어주기)와 **자동 응답** 기능
 
 ### 🤖 스마트 봇
 
-| 기능                                                                                                                                                                                                                                   | 설명                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [노래 신청 봇 (SR)](https://github.com/auejin/vzzk-bot/wiki/SR%EB%B4%87-%E2%80%90-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)                                                       | 시청자가 직접 음악 신청       |
-| [채팅 읽기 봇 (TTS)](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B4%87-%E2%80%90-%EC%B9%98%EC%A7%80%EC%A7%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-TTS-%EB%B4%87)     | 밈까지 자연스럽게 읽어주는 봇 |
-| [자동 응답 봇](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9D%91%EB%8B%B5-%EB%B4%87-%E2%80%90-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%9E%90%EB%8F%99-%EC%9E%85%EB%A0%A5-%EC%B1%97%EB%B4%87)     | 명령어에 자동으로 답변        |
-| [TITS](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8) | 버튜버 아바타에 물건 던지기   |
+| 기능                                                                                                                                                                                                                                   | 설명                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [노래 신청 봇 (SR)](https://github.com/auejin/vzzk-bot/wiki/SR%EB%B4%87-%E2%80%90-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)                                                       | 시청자가 직접 음악 신청           |
+| [채팅 읽기 봇 (TTS)](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B4%87-%E2%80%90-%EC%B9%98%EC%A7%80%EC%A7%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-TTS-%EB%B4%87)     | 밈까지 자연스럽게 읽어주는 봇     |
+| [자동 응답 봇](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9D%91%EB%8B%B5-%EB%B4%87-%E2%80%90-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%9E%90%EB%8F%99-%EC%9E%85%EB%A0%A5-%EC%B1%97%EB%B4%87)     | 명령어에 자동으로 답변 · 출석체크 |
+| [TITS](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8) | 버튜버 아바타에 물건 던지기       |
 
 ### 🎨 방송 오버레이
 
