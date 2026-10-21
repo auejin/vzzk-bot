@@ -59,6 +59,7 @@ VZZK의 **채팅 읽기**는 채팅을 자연스러운 목소리로 읽어 주�
 | [노래 신청 (SR)](https://github.com/auejin/vzzk-bot/wiki/%EB%85%B8%EB%9E%98-%EC%8B%A0%EC%B2%AD-%E2%80%90-%EC%8B%9C%EC%B2%AD%EC%9E%90-%EC%8B%A0%EC%B2%AD%EA%B3%A1%EC%9C%BC%EB%A1%9C-%EC%B1%84%EC%9A%B0%EB%8A%94-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85) | 시청자가 직접 음악 신청               |
 | [채팅 읽기](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%E2%80%90-%EC%B1%84%ED%8C%85%EA%B3%BC-%ED%9B%84%EC%9B%90-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EC%96%B4-%EC%A3%BC%EB%8A%94-TTS)                    | 밈까지 자연스럽게 읽어 주는 채팅 낭독 |
 | [자동 응답](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9D%91%EB%8B%B5-%E2%80%90-%EC%A0%95%ED%95%B4-%EB%91%94-%EB%8B%A8%EC%96%B4%EC%97%90-%EB%8B%B5%ED%95%98%EB%8A%94-%EC%9E%90%EB%8F%99-%EC%B1%84%ED%8C%85)                       | 명령어에 자동으로 답변 · 출석체크     |
+| [아바타 리액션](https://github.com/auejin/vzzk-bot/wiki/%EC%95%84%EB%B0%94%ED%83%80-%EB%A6%AC%EC%95%A1%EC%85%98)                                                                                                                                      | 물건 던지기 · 쓰담쓰담 · 머리꽁       |
 | [TITS](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)                | 버튜버 아바타에 물건 던지기           |
 
 ### 🎨 방송 오버레이
