@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK (브이찍)
+# <img src="https://vzzk-api.uxerham.com/brand/vzzk-mark.svg" height="75"> <br/> VZZK (브이찍)
 
 [![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
 ![Downloads](https://img.shields.io/badge/downloads-71K+-blue)
