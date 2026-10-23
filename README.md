@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/25zrhS8.png" width="75" height="75"> <br/> VZZK (브이찍)
+# <img src="https://vzzk-api.uxerham.com/brand/vzzk-mark.svg" height="75"> <br/> VZZK (브이찍)
 
 [![GitHub Release](https://img.shields.io/github/v/release/auejin/vzzk-bot)](https://github.com/auejin/vzzk-bot/releases/latest)
 ![Downloads](https://img.shields.io/badge/downloads-71K+-blue)
@@ -30,11 +30,13 @@ VZZK의 **채팅 읽기**는 채팅을 자연스러운 목소리로 읽어 주�
 
 무엇보다 자막이 들어간 방송 화면은 **유튜브 쇼츠나 틱톡 클립을 편집하는 시간을 크게 줄여 줍니다.** VZZK은 단순한 방송 도우미를 넘어, 여러분의 콘텐츠를 더 많은 사람에게 알리는 데에도 도움이 됩니다.
 
-### 💰 3. 시청자의 몰입을 높이고 후원으로 이어지는 리액션 (TITS)
+### 💰 3. 시청자의 몰입을 높이고 후원으로 이어지는 리액션 (아바타 리액션)
 
-화면에 물건을 던지는 리액션 플러그인(TITS)은 시청자가 후원하고 싶게 만드는 가장 효과적인 도구입니다.
+내가 보낸 채팅과 후원에 아바타가 직접 반응하면, 시청자는 방송에 함께하고 있다고 느끼고 다시 후원하고 싶어집니다.
 
-**TITS로 물건이 날아들 때 나오는 정신없는 리액션에 실시간 자막이 더해지면, 시청자가 열광하고 오래도록 기억하는 클립이 만들어집니다.**
+VZZK의 **아바타 리액션**은 채팅이나 후원이 들어오면 버튜버 아바타에게 물건을 던지고, 머리를 쓰다듬고, 뿅망치로 머리를 콩 때립니다. 아바타는 날아오는 물건을 보고 움찔하고, 무거운 물건일수록 세게 맞아 고개가 크게 밀리며, 쓰다듬으면 기분 좋은 표정을 짓습니다. **VTube Studio만 있으면 다른 플러그인 없이 무료로** 쓸 수 있고, TITS 연동에 등록해 둔 트리거는 처음 쓸 때 던지기 리액션으로 그대로 옮겨 옵니다.
+
+**아바타가 맞는 순간의 리액션에 실시간 자막이 더해지면, 시청자가 열광하고 오래도록 기억하는 클립이 만들어집니다.**
 
 ### ⚡ 4. 컴퓨터를 잘 몰라도 3분이면 끝나는 간편 설정 (초보 스트리머에 최적화)
 
@@ -59,6 +61,7 @@ VZZK의 **채팅 읽기**는 채팅을 자연스러운 목소리로 읽어 주�
 | [노래 신청 (SR)](https://github.com/auejin/vzzk-bot/wiki/%EB%85%B8%EB%9E%98-%EC%8B%A0%EC%B2%AD-%E2%80%90-%EC%8B%9C%EC%B2%AD%EC%9E%90-%EC%8B%A0%EC%B2%AD%EA%B3%A1%EC%9C%BC%EB%A1%9C-%EC%B1%84%EC%9A%B0%EB%8A%94-%EB%B0%A9%EC%86%A1-%EC%9D%8C%EC%95%85) | 시청자가 직접 음악 신청               |
 | [채팅 읽기](https://github.com/auejin/vzzk-bot/wiki/%EC%B1%84%ED%8C%85-%EC%9D%BD%EA%B8%B0-%E2%80%90-%EC%B1%84%ED%8C%85%EA%B3%BC-%ED%9B%84%EC%9B%90-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EC%96%B4-%EC%A3%BC%EB%8A%94-TTS)                    | 밈까지 자연스럽게 읽어 주는 채팅 낭독 |
 | [자동 응답](https://github.com/auejin/vzzk-bot/wiki/%EC%9E%90%EB%8F%99-%EC%9D%91%EB%8B%B5-%E2%80%90-%EC%A0%95%ED%95%B4-%EB%91%94-%EB%8B%A8%EC%96%B4%EC%97%90-%EB%8B%B5%ED%95%98%EB%8A%94-%EC%9E%90%EB%8F%99-%EC%B1%84%ED%8C%85)                       | 명령어에 자동으로 답변 · 출석체크     |
+| [아바타 리액션](https://github.com/auejin/vzzk-bot/wiki/%EC%95%84%EB%B0%94%ED%83%80-%EB%A6%AC%EC%95%A1%EC%85%98)                                                                                                                                      | 물건 던지기 · 쓰담쓰담 · 머리꽁       |
 | [TITS](https://github.com/auejin/vzzk-bot/wiki/TITS-%E2%80%90-%EB%B2%84%ED%8A%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AC%BC%EA%B1%B4-%EB%8D%98%EC%A7%80%EA%B8%B0-%EB%A6%AC%EC%95%A1%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)                | 버튜버 아바타에 물건 던지기           |
 
 ### 🎨 방송 오버레이
