@@ -126,7 +126,7 @@
 
 서비스와 이 약관에 대한 문의, 이의 제기, 신고는 다음으로 연락해 주시기 바랍니다.
 
-- 이메일: fishwiththevish@gmail.com
+- 이메일: sardinevish@gmail.com
 - 디스코드: https://discord.gg/nej5zmZADX
 
 ## 부칙

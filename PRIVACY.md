@@ -112,7 +112,7 @@ uxerham.com 운영자(이하 "제공자")는 「개인정보 보호법」 제30�
 제공자는 1인이 서비스를 운영하므로 운영자가 개인정보 보호책임자를 겸합니다.
 
 - 책임자: VZZK 운영자
-- 이메일: fishwiththevish@gmail.com
+- 이메일: sardinevish@gmail.com
 - 디스코드: https://discord.gg/nej5zmZADX
 
 개인정보 침해에 대한 신고나 상담이 필요한 경우 다음 기관에 문의할 수 있습니다.
